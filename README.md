@@ -15,8 +15,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Problem](#problem)
-- [Solution](#solution)
+- [Problem](#What are we trying to solve?)
+- [Solution](#How are we solving the problem)
 - [Tech Stack](#TechStack)
 - [Features](#features)
 - [Screenshots](#Screenshots)
@@ -35,9 +35,14 @@ women focussed hiring drives by big companies such as Adobe, Flipkart,
 Amazon, etc. The gender ratio is nowhere near 50%. 
 
 A lack of representation for women in tech can hinder a woman’s ability to succeed in the industry. It can put limits on their opportunities for mentorship and sponsorship and can lend to fostering “unconscious gender bias in company culture,” leaving many women “without a clear path forward,” according to a report from TrustRadius. 
+
+Women in tech are unfortunately accustomed to a lack of representation — 72% of women said they have worked for a company where “bro culture” is “pervasive,” while only 41% of men said the same.
+
+Women make up 47% of all employed adults in the U.S., but as of 2015, they hold only 25% of computing roles, according to data from the National Center for Women & Information Technology (NCWIT). Of the 25% of women working in tech, Asian women make up just 5% of that number, while Black and Hispanic women accounted for 3% and 1%, respectively. All this despite the fact that the growth of STEM jobs has outpaced the growth of overall employment in the country, growing 79% since 1990 while overall employment has grown 34%, according to data from Pew Research Center. Despite national conversations about the lack of diversity in tech, women are disproportionally missing out on this boom.
+
 </p>
 
-## solution
+## How are we solving the problem
 <p align="center">
 <img src="https://lh3.googleusercontent.com/fife/ABSRlIqZcvsCPF25Oeov2vDJeb2qyZB0UJAXk-arDoX_UDOjC8VgoexRptuUGBN1cG5x8X29XwrboMp9G2O6e8fKUZNyXJ5V5Ufuw4i3ZAJ3LrxZe2jLSKGqagMnaQLdO7JyZsJahJ2jw6LK0BkaKvX5Ny2Ci84JJ_6lw22BYiJu6nAXj7nTfgzNEhI8nECh6WSDgw3BLbeHqq75qZ8P-j42FPSsijGf3_CLgpIsuTXQUKmTNEH34m-7rEyWKhXYyz-hJWEtEJ4H-4YmwDintBUpBQHHgH_1nZhzIV_fls-V3MrFTYwJ-dfrzWJtheZqGzdGv-dk0JUuoSxcDbHG3Dib2vPg45qnausyfrGJg4-KADt61JL-z5ozosQ-v-kjP1hPa266pHr_O5265DV4kuvGKIH5wxtz6kzdgak0FMtufO6cvnaFr8b_Qjze8mQFvqEaeHB1Dr61svFekxyhBBSR74yH4wO6r-H_ElTdW1RCOVPJ-t20uKqV5IlN5Fg_mFe2rQhv1p_w_POtXQLp9VV5XPZ4hyYjbJ7lQTqmSWj1eKb-OmFEXyJiep0KFH_PkCn-8zkZVsf_3LaX2FjpPWQgtC_I8rjMeQID9UQSxqxktDpzshbkDuz1Etcb58nvOxPmAhi0z4psdKRXn-ZbRmSi_M3gXu7TsDj4jNQ-FGBVmjh3BbqheONPA_lY_C1oePCwGfkcIehJqO2eRQiciARLSFB2EwsI7Bq2dw=w2560-h1442-ft" width=400></p>
 
@@ -131,7 +136,7 @@ A few of the things you can do with :
       		<td align="center"><b> Chinmay Chahar </b></td>
 	<td align="center"><b> Faiz Alam</b></td>		
  	 </tr>
-
+</table>
 
 ## Wanna Contribute?
 
