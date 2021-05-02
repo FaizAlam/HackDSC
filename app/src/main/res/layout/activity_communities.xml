@@ -108,7 +108,8 @@
                             android:layout_below="@+id/t1"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="3dp"
-                            android:text="Details and Deadline:"
+                            android:text="Join Now"
+                            android:textColor="@color/black"
                             android:textSize="14sp"/>
 
                         <ImageView
@@ -148,7 +149,8 @@
                         <TextView
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
-                            android:text="Details and Deadline:"
+                            android:text="Join Now"
+                            android:textColor="@color/black"
                             android:textSize="14sp"
                             android:layout_marginTop="3dp"
                             android:layout_below="@+id/t2"
@@ -195,7 +197,8 @@
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
                             android:textSize="14sp"
-                            android:text="Details and Deadline:"
+                            android:text="Join Now"
+                            android:textColor="@color/black"
                             android:layout_marginTop="3dp"
                             android:layout_below="@+id/t1"
                             android:layout_marginStart="10dp" />
@@ -238,7 +241,8 @@
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
                             android:textSize="14sp"
-                            android:text="Details and Deadline:"
+                            android:text="Join Now"
+                            android:textColor="@color/black"
                             android:layout_marginTop="3dp"
                             android:layout_below="@+id/t1"
                             android:layout_marginStart="10dp" />
@@ -284,7 +288,8 @@
                             android:layout_below="@+id/t1"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="3dp"
-                            android:text="Details and Deadline:"
+                            android:text="Join Now"
+                            android:textColor="@color/black"
                             android:textSize="14sp"/>
 
                         <ImageView
@@ -328,7 +333,8 @@
                             android:layout_below="@+id/t1"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="3dp"
-                            android:text="Details and Deadline:"
+                            android:text="Join Now"
+                            android:textColor="@color/black"
                             android:textSize="14sp"/>
 
                         <ImageView
@@ -372,7 +378,8 @@
                             android:layout_below="@+id/t1"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="3dp"
-                            android:text="Details and Deadline:"
+                            android:text="Join Now"
+                            android:textColor="@color/black"
                             android:textSize="14sp"/>
 
                         <ImageView
@@ -416,7 +423,8 @@
                             android:layout_below="@+id/t1"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="3dp"
-                            android:text="Details and Deadline:"
+                            android:text="Join Now"
+                            android:textColor="@color/black"
                             android:textSize="14sp"/>
 
                         <ImageView

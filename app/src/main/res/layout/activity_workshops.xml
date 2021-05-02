@@ -40,7 +40,7 @@
                     android:layout_centerHorizontal="true"
                     android:gravity="center"
                     android:fontFamily="@font/baloo"
-                    android:text="Communities Near You"
+                    android:text="Workshops and Webinars"
                     android:textColor="#102638"
                     android:textSize="28sp" />
 
