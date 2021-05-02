@@ -37,9 +37,6 @@ View repository and user information, control your notifications and even manage
 
 ## problem
 
-<p align="center">
-  <img src = "http://i.imgur.com/HowF6aM.png" width=350>
-</p>
 <p>Women are widely underrepresented in the tech industry. Even after a lot of
 women focussed hiring drives by big companies such as Adobe, Flipkart,
 Amazon, etc. The gender ratio is nowhere near 50%. 
