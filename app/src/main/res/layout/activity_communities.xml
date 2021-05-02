@@ -16,7 +16,8 @@
             android:layout_centerVertical="true"
             android:layout_height="20dp"
             android:layout_width="20dp"
-            android:src="@drawable/icon"/>
+            android:src="@drawable/icon"
+            android:id="@+id/back5"/>
 
     </RelativeLayout>
 
@@ -186,7 +187,7 @@
                             android:id="@id/t1"
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
-                            android:text="Delhi Developer Students Club"
+                            android:text="Developer Students Club NCR"
                             android:textSize="25sp"
                             android:textColor="@color/white"
                             android:textStyle="bold"
@@ -253,51 +254,6 @@
                             android:maxHeight="100dp"
                             android:src="@drawable/club"
                             android:layout_alignParentRight="true"/>
-
-                    </RelativeLayout>
-
-
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="20dp"
-                    app:cardCornerRadius="15dp">
-
-                    <RelativeLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:background="#808000"
-                        android:padding="10dp">
-
-                        <TextView
-                            android:id="@id/t1"
-                            android:layout_width="240dp"
-                            android:layout_height="wrap_content"
-                            android:layout_marginStart="10dp"
-                            android:layout_marginTop="10dp"
-                            android:text="Code For Cause"
-                            android:textColor="@color/white"
-                            android:textSize="25sp"
-                            android:textStyle="bold"/>
-
-                        <TextView
-                            android:layout_width="240dp"
-                            android:layout_height="wrap_content"
-                            android:layout_below="@+id/t1"
-                            android:layout_marginLeft="10dp"
-                            android:layout_marginTop="3dp"
-                            android:text="Join Now"
-                            android:textColor="@color/black"
-                            android:textSize="14sp"/>
-
-                        <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
-                            android:layout_alignParentRight="true"
-                            android:maxHeight="100dp"
-                            android:src="@drawable/club"/>
 
                     </RelativeLayout>
 

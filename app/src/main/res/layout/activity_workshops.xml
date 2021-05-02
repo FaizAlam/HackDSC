@@ -13,6 +13,7 @@
         android:padding="20dp">
 
         <ImageView
+            android:id="@+id/back2"
             android:layout_centerVertical="true"
             android:layout_height="20dp"
             android:layout_width="20dp"
@@ -60,7 +61,7 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="15dp"
                         android:layout_width="wrap_content"
-                        android:text="Delhi" />
+                        android:text="Machine Learning Workshops" />
 
                     <ImageView
                         android:layout_alignParentRight="true"
@@ -88,7 +89,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="#20B2AA"
+                        android:background="#FFD700"
                         android:padding="10dp">
 
                         <TextView
@@ -97,26 +98,36 @@
                             android:layout_height="wrap_content"
                             android:layout_marginStart="10dp"
                             android:layout_marginTop="10dp"
-                            android:text="Women Who Code Delhi"
+                            android:text="Machine Learning 101"
                             android:textColor="@color/white"
                             android:textSize="25sp"
                             android:textStyle="bold"/>
 
                         <TextView
+                            android:id="@+id/tv0"
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
                             android:layout_below="@+id/t1"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="3dp"
-                            android:text="Details and Deadline:"
+                            android:text="Click to see details"
                             android:textSize="14sp"/>
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="LIVE NOW"
+                            android:layout_below="@id/tv0"
+                            android:textColor="#FF0000"
+                            android:layout_marginLeft="10dp"
+                            android:textSize="20dp"/>
 
                         <ImageView
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:layout_alignParentRight="true"
                             android:maxHeight="100dp"
-                            android:src="@drawable/club"/>
+                            android:src="@drawable/ml"/>
 
                     </RelativeLayout>
 
@@ -132,13 +143,13 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="#6495ED"
+                        android:background="#2F4F4F"
                         android:padding="10dp">
                         <TextView
                             android:id="@id/t2"
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
-                            android:text="Delhi Women In Machine Learning"
+                            android:text="Start your career in Machine Learning"
                             android:textColor="@color/white"
                             android:textSize="25sp"
                             android:textStyle="bold"
@@ -148,7 +159,7 @@
                         <TextView
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
-                            android:text="Details and Deadline:"
+                            android:text="Click to see details"
                             android:textSize="14sp"
                             android:layout_marginTop="3dp"
                             android:layout_below="@+id/t2"
@@ -158,7 +169,7 @@
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:maxHeight="100dp"
-                            android:src="@drawable/club"
+                            android:src="@drawable/ml"
                             android:layout_alignParentRight="true"/>
 
                     </RelativeLayout>
@@ -178,13 +189,13 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="#F4A460"
+                        android:background="#FF69B4"
                         android:padding="10dp">
                         <TextView
                             android:id="@id/t1"
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
-                            android:text="Delhi Developer Students Club"
+                            android:text="Machine Learning Research Fields"
                             android:textSize="25sp"
                             android:textColor="@color/white"
                             android:textStyle="bold"
@@ -195,7 +206,7 @@
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
                             android:textSize="14sp"
-                            android:text="Details and Deadline:"
+                            android:text="Click to see details"
                             android:layout_marginTop="3dp"
                             android:layout_below="@+id/t1"
                             android:layout_marginStart="10dp" />
@@ -204,7 +215,7 @@
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:maxHeight="100dp"
-                            android:src="@drawable/club"
+                            android:src="@drawable/ml"
                             android:layout_alignParentRight="true"/>
 
                     </RelativeLayout>
@@ -221,13 +232,13 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="#DDA0DD"
+                        android:background="#4169E1"
                         android:padding="10dp">
                         <TextView
                             android:id="@id/t1"
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
-                            android:text="Facebook Developer Circle Delhi"
+                            android:text="Ask the expert: Machine Learning"
                             android:textSize="25sp"
                             android:textColor="@color/white"
                             android:textStyle="bold"
@@ -238,7 +249,7 @@
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
                             android:textSize="14sp"
-                            android:text="Details and Deadline:"
+                            android:text="Click to see details"
                             android:layout_marginTop="3dp"
                             android:layout_below="@+id/t1"
                             android:layout_marginStart="10dp" />
@@ -247,186 +258,11 @@
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:maxHeight="100dp"
-                            android:src="@drawable/club"
+                            android:src="@drawable/ml"
                             android:layout_alignParentRight="true"/>
 
                     </RelativeLayout>
 
-
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="20dp"
-                    app:cardCornerRadius="15dp">
-
-                    <RelativeLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:background="#808000"
-                        android:padding="10dp">
-
-                        <TextView
-                            android:id="@id/t1"
-                            android:layout_width="240dp"
-                            android:layout_height="wrap_content"
-                            android:layout_marginStart="10dp"
-                            android:layout_marginTop="10dp"
-                            android:text="Code For Cause"
-                            android:textColor="@color/white"
-                            android:textSize="25sp"
-                            android:textStyle="bold"/>
-
-                        <TextView
-                            android:layout_width="240dp"
-                            android:layout_height="wrap_content"
-                            android:layout_below="@+id/t1"
-                            android:layout_marginLeft="10dp"
-                            android:layout_marginTop="3dp"
-                            android:text="Details and Deadline:"
-                            android:textSize="14sp"/>
-
-                        <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
-                            android:layout_alignParentRight="true"
-                            android:maxHeight="100dp"
-                            android:src="@drawable/club"/>
-
-                    </RelativeLayout>
-
-
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="20dp"
-                    app:cardCornerRadius="15dp">
-
-                    <RelativeLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:background="#DC143C"
-                        android:padding="10dp">
-
-                        <TextView
-                            android:id="@id/t1"
-                            android:layout_width="240dp"
-                            android:layout_height="wrap_content"
-                            android:layout_marginStart="10dp"
-                            android:layout_marginTop="10dp"
-                            android:text="Data Science Group"
-                            android:textColor="@color/white"
-                            android:textSize="25sp"
-                            android:textStyle="bold"/>
-
-                        <TextView
-                            android:layout_width="240dp"
-                            android:layout_height="wrap_content"
-                            android:layout_below="@+id/t1"
-                            android:layout_marginLeft="10dp"
-                            android:layout_marginTop="3dp"
-                            android:text="Details and Deadline:"
-                            android:textSize="14sp"/>
-
-                        <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
-                            android:layout_alignParentRight="true"
-                            android:maxHeight="100dp"
-                            android:src="@drawable/club"/>
-
-                    </RelativeLayout>
-
-
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="20dp"
-                    app:cardCornerRadius="15dp">
-
-                    <RelativeLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:background="#90EE90"
-                        android:padding="10dp">
-
-                        <TextView
-                            android:id="@id/t1"
-                            android:layout_width="240dp"
-                            android:layout_height="wrap_content"
-                            android:layout_marginStart="10dp"
-                            android:layout_marginTop="10dp"
-                            android:text="SheCodes Delhi"
-                            android:textColor="@color/white"
-                            android:textSize="25sp"
-                            android:textStyle="bold"/>
-
-                        <TextView
-                            android:layout_width="240dp"
-                            android:layout_height="wrap_content"
-                            android:layout_below="@+id/t1"
-                            android:layout_marginLeft="10dp"
-                            android:layout_marginTop="3dp"
-                            android:text="Details and Deadline:"
-                            android:textSize="14sp"/>
-
-                        <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
-                            android:layout_alignParentRight="true"
-                            android:maxHeight="100dp"
-                            android:src="@drawable/club"/>
-
-                    </RelativeLayout>
-
-
-                </androidx.cardview.widget.CardView>
-
-                <androidx.cardview.widget.CardView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="20dp"
-                    app:cardCornerRadius="15dp">
-
-                    <RelativeLayout
-                        android:layout_width="match_parent"
-                        android:layout_height="match_parent"
-                        android:background="#D2691E"
-                        android:padding="10dp">
-
-                        <TextView
-                            android:id="@id/t1"
-                            android:layout_width="240dp"
-                            android:layout_height="wrap_content"
-                            android:layout_marginStart="10dp"
-                            android:layout_marginTop="10dp"
-                            android:text="Women in Tech Club"
-                            android:textColor="@color/white"
-                            android:textSize="25sp"
-                            android:textStyle="bold"/>
-
-                        <TextView
-                            android:layout_width="240dp"
-                            android:layout_height="wrap_content"
-                            android:layout_below="@+id/t1"
-                            android:layout_marginLeft="10dp"
-                            android:layout_marginTop="3dp"
-                            android:text="Details and Deadline:"
-                            android:textSize="14sp"/>
-
-                        <ImageView
-                            android:layout_width="100dp"
-                            android:layout_height="100dp"
-                            android:layout_alignParentRight="true"
-                            android:maxHeight="100dp"
-                            android:src="@drawable/club"/>
-
-                    </RelativeLayout>
 
                 </androidx.cardview.widget.CardView>
 
