@@ -19,7 +19,7 @@
 - [Solution](#solution)
 - [Tech Stack](#TechStack)
 - [Features](#features)
-- [Screenshots](#ss)
+- [Screenshots](#Screenshots)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -90,9 +90,7 @@ A few of the things you can do with :
 * One of the largest women professional's community
 
 
-# ss
-
-<p>Screenshot</p>
+# Screenshots
 <table>
 	<tr>
 		<td align="center">
@@ -119,21 +117,19 @@ A few of the things you can do with :
 			<img src="https://i.ibb.co/6tg6nfq/Gold-7.png" alt="2nd screen" width="240"/></td>
 	</tr>
 	
+</table>
 
-
-
-## Feedback
-
-Feel free to send us feedback on [Email](mohdfaizalam53@gmail.com) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
 
 ## Contributors
 
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
+
+<a href="https://github.com/chinmaychahar/HackDSC/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
 
 
+## Wanna Contribute?
 
-## Acknowledgments
-
-Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
+1. Fork it
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
