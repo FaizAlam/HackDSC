@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  GitHub in your pocket. Built with Java and Android Studio.
+  Tap into your skill set with professional guidance
 </p>
 
 
@@ -57,42 +57,8 @@ We have seen how women’s education is not financed well by the families and th
 
 
 
-FEATURES : 
-<ul>
-  <li>Mentorship : Get mentored from women already working in industry</li>
-<li>Scholarship : See all the scholarships you can can apply to, no matter if you want it for resume/fame/money. We have got you all covered.</li>
-  
- </ul>
-
-
 </p>
 
-
-
-
-
-
-## Feedback
-
-Feel free to send us feedback on [Email](mohdfaizalam53@gmail.com) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
-
-If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
-
-## Contributors
-
-This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
-
-## Build Process
-
-- Follow the [React Native Guide](https://facebook.github.io/react-native/docs/getting-started.html) for getting started building a project with native code. **A Mac is required if you wish to develop for iOS.**
-- Clone or download the repo
-- `yarn` to install dependencies
-- `yarn run link` to link react-native dependencies
-- `yarn start:ios` to start the packager and run the app in the iOS simulator (`yarn start:ios:logger` will boot the application with [redux-logger](<https://github.com/evgenyrodionov/redux-logger>))
-- `yarn start:android` to start the packager and run the app in the the Android device/emulator (`yarn start:android:logger` will boot the application with [redux-logger](https://github.com/evgenyrodionov/redux-logger))
-
-
-<a href="https://opencollective.com/git-point#backers" target="_blank"><img src="https://opencollective.com/git-point/backers.svg?width=890"></a>
 
 
 
@@ -119,6 +85,8 @@ A few of the things you can do with :
 </p>
 
 
+
+
 ## techstack
 <p align="center">
 <table>
@@ -139,6 +107,24 @@ A few of the things you can do with :
 </table>
 
 </p>
+
+
+#ss
+
+
+
+## Feedback
+
+Feel free to send us feedback on [Email](mohdfaizalam53@gmail.com) or [file an issue](https://github.com/gitpoint/git-point/issues/new). Feature requests are always welcome. If you wish to contribute, please take a quick look at the [guidelines](./CONTRIBUTING.md)!
+
+If there's anything you'd like to chat about, please feel free to join our [Gitter chat](https://gitter.im/git-point)!
+
+## Contributors
+
+This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification and is brought to you by these [awesome contributors](./CONTRIBUTORS.md).
+
+
+
 ## Acknowledgments
 
 Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
