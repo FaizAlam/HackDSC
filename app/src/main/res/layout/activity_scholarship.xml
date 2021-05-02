@@ -7,7 +7,6 @@
     tools:context=".mentorship"
     android:orientation="vertical">
 
-
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -17,7 +16,7 @@
             android:layout_centerVertical="true"
             android:layout_height="20dp"
             android:layout_width="20dp"
-            android:src="@drawable/icon" />
+            android:src="@drawable/icon"/>
 
     </RelativeLayout>
 
@@ -41,7 +40,7 @@
                     android:layout_centerHorizontal="true"
                     android:gravity="center"
                     android:fontFamily="@font/baloo"
-                    android:text="Scholarship"
+                    android:text="Scholarships"
                     android:textColor="#102638"
                     android:textSize="28sp" />
 
@@ -81,7 +80,7 @@
                 android:orientation="vertical">
 
                 <androidx.cardview.widget.CardView
-                    android:layout_width="match_parent "
+                    android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="20dp"
                     app:cardCornerRadius="15dp">
@@ -89,36 +88,35 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="#ffb14a"
+                        android:background="#FFB6C1"
                         android:padding="10dp">
 
                         <TextView
                             android:id="@id/t1"
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
-                            android:layout_marginLeft="10dp"
+                            android:layout_marginStart="10dp"
                             android:layout_marginTop="10dp"
                             android:text="Grace Hopper Scholarship "
-                            android:textColor="@color/black"
+                            android:textColor="@color/white"
                             android:textSize="25sp"
-                            android:textStyle="bold"></TextView>
+                            android:textStyle="bold"/>
 
                         <TextView
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
                             android:layout_below="@+id/t1"
                             android:layout_marginLeft="10dp"
-
                             android:layout_marginTop="3dp"
-                            android:text="This is descriptive text and blah blah blah blah more blah and then more blah"
-                            android:textSize="10sp"></TextView>
+                            android:text="Details and Deadline:"
+                            android:textSize="14sp"/>
 
                         <ImageView
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:layout_alignParentRight="true"
                             android:maxHeight="100dp"
-                            android:src="@drawable/scholarship"
+                            android:src="@drawable/scholarship"/>
 
                     </RelativeLayout>
 
@@ -126,7 +124,7 @@
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
-                    android:layout_width="match_parent "
+                    android:layout_width="match_parent"
                     android:layout_height="120dp"
                     app:cardCornerRadius="15dp"
                     android:layout_margin="20dp">
@@ -134,35 +132,34 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="#fc4e91"
+                        android:background="#BC8F8F"
                         android:padding="10dp">
                         <TextView
                             android:id="@id/t2"
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
                             android:text="Ian Parry Scholarship"
-                            android:textColor="@color/black"
+                            android:textColor="@color/white"
                             android:textSize="25sp"
                             android:textStyle="bold"
                             android:layout_marginTop="10dp"
-                            android:layout_marginLeft="10dp" ></TextView>
+                            android:layout_marginStart="10dp" />
 
                         <TextView
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
-                            android:text="The scholarship exists to find and support the very best young people striving to produce powerful, meaningful photojournalism in a ‘selfie’ obsessed world. Ian would be immensely proud of the long list of internationally known photographers who were helped at the start of their careers by the scholarship that bears his name."
-                            android:textSize="10sp"
-
+                            android:text="Details and Deadline:"
+                            android:textSize="14sp"
                             android:layout_marginTop="3dp"
                             android:layout_below="@+id/t2"
-                            android:layout_marginLeft="10dp" ></TextView>
+                            android:layout_marginLeft="10dp" />
 
                         <ImageView
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:maxHeight="100dp"
                             android:src="@drawable/scholarship"
-                            android:layout_alignParentRight="true"
+                            android:layout_alignParentRight="true"/>
 
                     </RelativeLayout>
 
@@ -173,7 +170,7 @@
                 </androidx.cardview.widget.CardView>
 
                 <androidx.cardview.widget.CardView
-                    android:layout_width="match_parent "
+                    android:layout_width="match_parent"
                     android:layout_height="120dp"
                     app:cardCornerRadius="15dp"
                     android:layout_margin="20dp">
@@ -181,7 +178,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:background="#4aa4ff"
+                        android:background="#FA8072"
                         android:padding="10dp">
                         <TextView
                             android:id="@id/t1"
@@ -189,39 +186,252 @@
                             android:layout_height="wrap_content"
                             android:text="Charpak Exchange Scholarship"
                             android:textSize="25sp"
-                            android:textColor="@color/black"
+                            android:textColor="@color/white"
                             android:textStyle="bold"
                             android:layout_marginTop="10dp"
-                            android:layout_marginLeft="10dp" ></TextView>
+                            android:layout_marginStart="10dp" />
 
                         <TextView
                             android:layout_width="240dp"
                             android:layout_height="wrap_content"
-                            android:text="The program is designed for Indian students from all fields and streams of study, enrolled in an Indian institution at the Bachelors or Master’s degree level, who wish to undertake an exchange semester programme (for a period of one to four months)."
-                            android:textSize="10sp"
-
+                            android:textSize="14sp"
+                            android:text="Details and Deadline:"
                             android:layout_marginTop="3dp"
                             android:layout_below="@+id/t1"
-                            android:layout_marginLeft="10dp" ></TextView>
+                            android:layout_marginStart="10dp" />
 
                         <ImageView
                             android:layout_width="100dp"
                             android:layout_height="100dp"
                             android:maxHeight="100dp"
                             android:src="@drawable/scholarship"
-                            android:layout_alignParentRight="true"
+                            android:layout_alignParentRight="true"/>
 
                     </RelativeLayout>
 
 
+                </androidx.cardview.widget.CardView>
 
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="120dp"
+                    app:cardCornerRadius="15dp"
+                    android:layout_margin="20dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#20B2AA"
+                        android:padding="10dp">
+                        <TextView
+                            android:id="@id/t1"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:text="Reach Oxford Scholarship"
+                            android:textSize="25sp"
+                            android:textColor="@color/white"
+                            android:textStyle="bold"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginStart="10dp" />
+
+                        <TextView
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:textSize="14sp"
+                            android:text="Details and Deadline:"
+                            android:layout_marginTop="3dp"
+                            android:layout_below="@+id/t1"
+                            android:layout_marginStart="10dp" />
+
+                        <ImageView
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:maxHeight="100dp"
+                            android:src="@drawable/scholarship"
+                            android:layout_alignParentRight="true"/>
+
+                    </RelativeLayout>
 
 
                 </androidx.cardview.widget.CardView>
-                
-                
-            </LinearLayout>
 
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    app:cardCornerRadius="15dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#FF7F50"
+                        android:padding="10dp">
+
+                        <TextView
+                            android:id="@id/t1"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Udacity Scholarship "
+                            android:textColor="@color/white"
+                            android:textSize="25sp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/t1"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginTop="3dp"
+                            android:text="Details and Deadline:"
+                            android:textSize="14sp"/>
+
+                        <ImageView
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentRight="true"
+                            android:maxHeight="100dp"
+                            android:src="@drawable/scholarship"/>
+
+                    </RelativeLayout>
+
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    app:cardCornerRadius="15dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#FFD700"
+                        android:padding="10dp">
+
+                        <TextView
+                            android:id="@id/t1"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:text="ACM Scholarship "
+                            android:textColor="@color/white"
+                            android:textSize="25sp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/t1"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginTop="3dp"
+                            android:text="Details and Deadline:"
+                            android:textSize="14sp"/>
+
+                        <ImageView
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentRight="true"
+                            android:maxHeight="100dp"
+                            android:src="@drawable/scholarship"/>
+
+                    </RelativeLayout>
+
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    app:cardCornerRadius="15dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#40E0D0"
+                        android:padding="10dp">
+
+                        <TextView
+                            android:id="@id/t1"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Women in Tech Scholarship "
+                            android:textColor="@color/white"
+                            android:textSize="25sp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/t1"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginTop="3dp"
+                            android:text="Details and Deadline:"
+                            android:textSize="14sp"/>
+
+                        <ImageView
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentRight="true"
+                            android:maxHeight="100dp"
+                            android:src="@drawable/scholarship"/>
+
+                    </RelativeLayout>
+
+
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    app:cardCornerRadius="15dp">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:background="#BA55D3"
+                        android:padding="10dp">
+
+                        <TextView
+                            android:id="@id/t1"
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="10dp"
+                            android:layout_marginTop="10dp"
+                            android:text="Single girlchild Scholarship "
+                            android:textColor="@color/white"
+                            android:textSize="25sp"
+                            android:textStyle="bold"/>
+
+                        <TextView
+                            android:layout_width="240dp"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/t1"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginTop="3dp"
+                            android:text="Details and Deadline:"
+                            android:textSize="14sp"/>
+
+                        <ImageView
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentRight="true"
+                            android:maxHeight="100dp"
+                            android:src="@drawable/scholarship"/>
+
+                    </RelativeLayout>
+
+
+                </androidx.cardview.widget.CardView>
+
+            </LinearLayout>
 
 
         </LinearLayout>

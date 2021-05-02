@@ -21,7 +21,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:navigationIcon="@drawable/icon" />
+            app:navigationIcon="@drawable/icon_menu" />
 
         <TextView
             android:id="@+id/textView"
