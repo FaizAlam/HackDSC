@@ -122,6 +122,26 @@ A few of the things you can do with :
 </p>
 
 
+## techstack
+
+<h2>libraries used</h2>
+
+<table>
+  <tr>
+    <td align="center"> <img align="center" src="https://lh3.googleusercontent.com/fife/ABSRlIq4MQ5aB6TA6fywLIe3DYagC55MHwl39kDS-cqUY3x1sLJwPyUv0tYc-HWoWINA8DzyjI0XaE3Xc9hmD4rWIUr53om7aLrZsJhej6_htfnnfhWtE6NRYq2VYtqwXQBsOuElDX-fN1fVsfNlKRSgKHcPrKaSnEMqNxDUjlz4t-SiVGyllNDZl7PfLw9ucfYO2rGIMah_PIkH-9nhzNMUuWDU1zC8mRz9BGVv_DM5YcffjO2XXNeRaNUIYNBaf3rkNPU-elpUltuVQNrl8WL-qVfkZU9xv6Du-pTvwPizOKTaO_O_1XBEo8AMVitnTDS1tdEdHaQwuiU76nMY9m1ykW0ZMJYs_ovPdHVTZAunbkL6GyL2PtH0_-kDuyw3IMZTvtRC_R_QM6UmbW-zajnrCAArA2Bpr5Pxk2nj8pyKrIOyIRAX9g9xRa6WFnQvfqxGeX5ulBR3EEIT1IOJXbf7BAJWrMBFGZ_0Cumt0fcP59-J_WZi4Y4Ee9ZBWerGCRxsEVqbkNpD3TUswMFdF_bM377jzvcd_edoqxgHCYcftuJfyPd9xR4nr3Y5KbXZG58kFg58Z2RoBJxggXkOoyetxxCFJUdpbmY44dngYkLhw2WojcL1Cjc8cpMCDWyjtiUSAcyel3hU4yjF3gbxOCRBfr6ZmAsFD113_rzaa36Aoh5oIBAI4IXI_agYroa6hiyEfftYept1dD38qQFGFn3OkWXE4Fu_ZLcKOw=w2560-h1442-ft" alt="java logo" width="100" /></td>
+		<td align="center"> <img align="center" src="/public/assets/icons/react.png" alt="AS logo" width="100" /></td>
+		<td align="center"> <img align="center" src="https://lh3.googleusercontent.com/fife/ABSRlIqwJ6aJH8E70MqXA4bh6sHWn9V_-Oxpzubcw-ODU15PvbU7fgmUO7Qd77nHlBrExehApBJmNytR3uu9kn3PJkOH-jjqstrWF7-iqfaQwOzWrVHBuIO6myhBgi0x0coIXyZXqWN3PW2JfbuXmq7bW4xNsOjIvm-JkvZBD2qbxa8r2JknEZDQyucoKTqR-1_SL1X7ydt0QTmfLQz47NTpi0ABjSW6056W8jMOwvl2-AVTwYc1YM_CKMoMOq_Q8hx5ZjYscPiUZ2-xAn6qHwXnqtlQ_Mldv3u-GWeZL5DueqGeH-PHsYteFSYaWORAhHHi9aLv0YeSrzW2mD0NCxzwyi8YDHGOlHj-ZGw59LOhSIeyM7ehUpC3w4tOb3ADDEKC7gN6GPlTajfKT0qAl7lHX2q2SLUt-FZ8ay1yto__LqWQlLkhrbl2N1PXTCcXr9-CX6Gq_AR64M2rhY6PzMaW7fHNSRzhn92Ctz3T6WsWw913q5Cw_btGh-4k5Wc3iXK6BjVRkwQoafbO6vkBM7CgRvtiLl3I_dj8i3AoVsdl_CyQEuaqZaHANyXpCNRu-Im0jrBgUKCwkcQaGI4TrmdsoZuhoDhAhwi58qmZZUlK3Mpxc_1rhqirBRWigK8pA6p_3vA8Y3Mj43cGBuj7nSGEW65KjqgHgtkoc0yP_UPHnoTLNYHMxrxP39c4UzfvHo772cccTy72IbaXXjtC-Kt7eTxDaWHiTRBSvg=w2560-h1354-ft" alt="xml logo" width="100" /></td>
+		<td align="center"> <img align="center" src="/public/assets/icons/framer.png" alt="firebase logo" width="100" /></td>
+		
+  </tr> 
+   <tr>
+      <td align="center"><b> Java </b></td>
+			<td align="center"><b> Android Studio </b></td>
+			<td align="center"><b> XML </b></td>
+			<td align="center"><b> Firebase </b></td>
+			
+  </tr>
+</table>
 
 ## Acknowledgments
 
