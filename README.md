@@ -111,17 +111,17 @@ A few of the things you can do with :
 		<td align="center">
 			<img src="https://i.ibb.co/Ph9wgMF/Gold-1.png" alt="3rd screen" width="240"/></td>
 		<td align="center">
-			<img src="https://i.ibb.co/gygFgpH/Gold-5.png" alt="4th screen" width="240"/></td>
+			<img src="https://i.ibb.co/FzHb3Dw/Gold-2.png" alt="4th screen" width="240"/></td>
 		<td align="center">
-			<img src="https://i.ibb.co/0hN6HzC/Gold-6.png" alt="5th screen" width="240"/></td>
+			<img src="https://i.ibb.co/9GY3GqV/Gold-4.png" alt="5th screen" width="240"/></td>
 		<td align="center">
-			<img src="https://i.ibb.co/FzHb3Dw/Gold-2.png" alt="6th screen" width="240"/></td>
+			<img src="https://i.ibb.co/0hN6HzC/Gold-6.png" alt="6th screen" width="240"/></td>		
 	</tr>
 	<tr>
 		<td align="center">
 			<img src="https://i.ibb.co/zf2vMQk/Gold-3.png" alt="2nd screen" width="240"/></td>
 		<td align="center">
-			<img src="https://i.ibb.co/9GY3GqV/Gold-4.png" alt="2nd screen" width="240"/></td>
+			<img src="https://i.ibb.co/gygFgpH/Gold-5.png" alt="2nd screen" width="240"/></td>
 		<td align="center">
 			<img src="https://i.ibb.co/BjxRDZz/Gold-8.png" alt="2nd screen" width="240"/></td>
 		<td align="center">
