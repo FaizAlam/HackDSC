@@ -17,8 +17,8 @@
 - [Introduction](#introduction)
 - [Problem](#problem)
 - [Solution](#solution)
-- [Features](#features)
 - [Tech Stack](#TechStack)
+- [Features](#features)
 - [Screenshots](#ss)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -53,24 +53,6 @@ We have seen how women’s education is not financed well by the families and th
 </p>
 
 
-
-
-## Features
-
-A few of the things you can do with :
-
-* Get Mentored by professional women out there
-* See all the scholarships where you can apply
-* Look for events happening all over the internet
-* Find out clubs and society in your town and learn and grow along
-* See all the freelancing, projects and other opportunity 
-* Join webinars conducted by experts
-* Get referred for your work by mentors 
-* Earn side income while you learn
-* One of the largest women professional's community
-
-
-
 ## TechStack
 <p align="center">
 <table>
@@ -93,7 +75,22 @@ A few of the things you can do with :
 </p>
 
 
-#ss
+## Features
+
+A few of the things you can do with :
+
+* Get Mentored by professional women out there
+* See all the scholarships where you can apply
+* Look for events happening all over the internet
+* Find out clubs and society in your town and learn and grow along
+* See all the freelancing, projects and other opportunity 
+* Join webinars conducted by experts
+* Get referred for your work by mentors 
+* Earn side income while you learn
+* One of the largest women professional's community
+
+
+# ss
 
 <p>Screenshot</p>
 <table>
@@ -122,6 +119,8 @@ A few of the things you can do with :
 			<img src="https://i.ibb.co/6tg6nfq/Gold-7.png" alt="2nd screen" width="240"/></td>
 	</tr>
 	
+
+
 
 ## Feedback
 
