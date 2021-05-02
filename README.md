@@ -15,8 +15,8 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Problem]
-- [Solution]
+- Problem
+- Solution
 - [Tech Stack](#TechStack)
 - [Features](#features)
 - [Screenshots](#Screenshots)
