@@ -25,17 +25,10 @@
 
 ## Introduction
 
-[![Build Status](https://img.shields.io/travis/gitpoint/git-point.svg?style=flat-square)](https://travis-ci.org/gitpoint/git-point)
-[![Coveralls](https://img.shields.io/coveralls/github/gitpoint/git-point.svg?style=flat-square)](https://coveralls.io/github/gitpoint/git-point)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)](./CONTRIBUTORS.md)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
+This app is made within 2 days for HACKDSC.
 
 
-View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
-
-
-## problem
+## What are we trying to solve?
 
 <p>Women are widely underrepresented in the tech industry. Even after a lot of
 women focussed hiring drives by big companies such as Adobe, Flipkart,
@@ -111,7 +104,30 @@ A few of the things you can do with :
 
 #ss
 
-
+<table>
+	<tr>
+		<td align="center">
+			<img src="https://i.ibb.co/9rsRd1L/Gold.png" alt="2nd screen" width="240"/></td>
+		<td align="center">
+			<img src="https://i.ibb.co/Ph9wgMF/Gold-1.png" alt="3rd screen" width="240"/></td>
+		<td align="center">
+			<img src="https://i.ibb.co/gygFgpH/Gold-5.png" alt="4th screen" width="240"/></td>
+		<td align="center">
+			<img src="https://i.ibb.co/0hN6HzC/Gold-6.png" alt="5th screen" width="240"/></td>
+		<td align="center">
+			<img src="https://i.ibb.co/FzHb3Dw/Gold-2.png" alt="6th screen" width="240"/></td>
+	</tr>
+	<tr>
+		<td align="center">
+			<img src="https://i.ibb.co/zf2vMQk/Gold-3.png" alt="2nd screen" width="240"/></td>
+		<td align="center">
+			<img src="https://i.ibb.co/9GY3GqV/Gold-4.png" alt="2nd screen" width="240"/></td>
+		<td align="center">
+			<img src="https://i.ibb.co/BjxRDZz/Gold-8.png" alt="2nd screen" width="240"/></td>
+		<td align="center">
+			<img src="https://i.ibb.co/6tg6nfq/Gold-7.png" alt="2nd screen" width="240"/></td>
+	</tr>
+	
 
 ## Feedback
 
