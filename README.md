@@ -1,4 +1,4 @@
-<h1 align="center"> NewApp </h1> <br>
+
 <p align="center">
   <a href="https://gitpoint.co/">
     <img alt="GitPoint" title="GitPoint" src="https://i.ibb.co/Jzgk6YM/Group-1-6.png" width="450">
