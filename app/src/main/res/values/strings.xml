@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HackDSC</string>
+    <string name="logo">APP NAME</string>
+    <string name="desc">Lorem ipsum dolor sit amet ipsum maximus, eget auctor neque</string>
+    <string name="get_started">Click here to Get Started</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="hi_there">Hi There!</string>
+    <string name="please_enter_your_phone_no">Please enter your phone no.</string>
+    <string name="verify_otp">VERIFY OTP</string>
+    <string name="otp">OTP</string>
+    <string name="women_in_tech_guidance">Women in Tech Guidance</string>
+</resources>

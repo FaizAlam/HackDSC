@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316643469415",
+    "project_id": "hackdsc-6d274",
+    "storage_bucket": "hackdsc-6d274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316643469415:android:8e6e869ea8e48140a40cc2",
+        "android_client_info": {
+          "package_name": "com.example.hackdsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316643469415-hnegip3t4njkqeffsgid0sv61k5vtio1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrwEd6KJmU45zeI9uPekUV_XUMgygbakc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316643469415-hnegip3t4njkqeffsgid0sv61k5vtio1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
