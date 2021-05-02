@@ -123,9 +123,7 @@ A few of the things you can do with :
 
 
 ## techstack
-
-<h2>libraries used</h2>
-
+<p align="center">
 <table>
   <tr>
     <td align="center"> <img align="center" src="https://lh3.googleusercontent.com/fife/ABSRlIq4MQ5aB6TA6fywLIe3DYagC55MHwl39kDS-cqUY3x1sLJwPyUv0tYc-HWoWINA8DzyjI0XaE3Xc9hmD4rWIUr53om7aLrZsJhej6_htfnnfhWtE6NRYq2VYtqwXQBsOuElDX-fN1fVsfNlKRSgKHcPrKaSnEMqNxDUjlz4t-SiVGyllNDZl7PfLw9ucfYO2rGIMah_PIkH-9nhzNMUuWDU1zC8mRz9BGVv_DM5YcffjO2XXNeRaNUIYNBaf3rkNPU-elpUltuVQNrl8WL-qVfkZU9xv6Du-pTvwPizOKTaO_O_1XBEo8AMVitnTDS1tdEdHaQwuiU76nMY9m1ykW0ZMJYs_ovPdHVTZAunbkL6GyL2PtH0_-kDuyw3IMZTvtRC_R_QM6UmbW-zajnrCAArA2Bpr5Pxk2nj8pyKrIOyIRAX9g9xRa6WFnQvfqxGeX5ulBR3EEIT1IOJXbf7BAJWrMBFGZ_0Cumt0fcP59-J_WZi4Y4Ee9ZBWerGCRxsEVqbkNpD3TUswMFdF_bM377jzvcd_edoqxgHCYcftuJfyPd9xR4nr3Y5KbXZG58kFg58Z2RoBJxggXkOoyetxxCFJUdpbmY44dngYkLhw2WojcL1Cjc8cpMCDWyjtiUSAcyel3hU4yjF3gbxOCRBfr6ZmAsFD113_rzaa36Aoh5oIBAI4IXI_agYroa6hiyEfftYept1dD38qQFGFn3OkWXE4Fu_ZLcKOw=w2560-h1442-ft" alt="java logo" width="100" /></td>
@@ -143,6 +141,7 @@ A few of the things you can do with :
   </tr>
 </table>
 
+</p>
 ## Acknowledgments
 
 Thanks to [JetBrains](https://www.jetbrains.com) for supporting us with a [free Open Source License](https://www.jetbrains.com/buy/opensource).
