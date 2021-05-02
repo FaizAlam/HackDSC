@@ -123,7 +123,7 @@ A few of the things you can do with :
 ## Contributors
 
 
-<a href="https://github.com/chinmaychahar/HackDSC/graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
+| [<img src="https://avatars.githubusercontent.com/u/56752925?s=60&v=4" width="100px;"/><br /><sub><b>Chinmay Chahar</b></sub>](https://github.com/chinmaychahar)<br />        | [<img src="https://avatars.githubusercontent.com/u/21370009?s=60&v=4" width="100px;"/><br /><sub><b>Faiz Alam</b></sub>]
 
 
 ## Wanna Contribute?
