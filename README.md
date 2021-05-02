@@ -122,9 +122,17 @@ A few of the things you can do with :
 
 ## Contributors
 
-
- [<img src="https://avatars.githubusercontent.com/u/56752925?s=100&v=4" width="100px;"/><br /><sub><b>Chinmay Chahar</b></sub>]<br />        
- [<img src="https://avatars.githubusercontent.com/u/21370009?s=100&v=4" width="100px;"/><br /><sub><b>Faiz Alam</b></sub>]
+<table>
+	<tr>
+		<td align="center"><img src="https://avatars.githubusercontent.com/u/56752925?s=100&v=4" width="100px;"/></td>
+		<td align="center"><img src="https://avatars.githubusercontent.com/u/21370009?s=100&v=4" width="100px;"/></td>
+	</tr>
+	<tr>
+      <td align="center"><b> Chinmay Chahar </b></td>
+			<td align="center"><b> Faiz Alam</b></td>
+			
+			
+ 	 </tr>
 
 
 ## Wanna Contribute?
