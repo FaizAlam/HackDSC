@@ -18,7 +18,7 @@
 - [Problem](#problem)
 - [Solution](#solution)
 - [Features](#features)
-- [Tech Stack](#techstack)
+- [Tech Stack](#TechStack)
 - [Screenshots](#ss)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -69,18 +69,9 @@ A few of the things you can do with :
 * Earn side income while you learn
 * One of the largest women professional's community
 
-<p align="center">
-  <img src = "http://i.imgur.com/IkSnFRL.png" width=700>
-</p>
-
-<p align="center">
-  <img src = "http://i.imgur.com/0iorG20.png" width=700>
-</p>
 
 
-
-
-## techstack
+## TechStack
 <p align="center">
 <table>
   <tr>
@@ -104,6 +95,7 @@ A few of the things you can do with :
 
 #ss
 
+<p>Screenshot</p>
 <table>
 	<tr>
 		<td align="center">
