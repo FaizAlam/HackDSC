@@ -35,7 +35,7 @@
 View repository and user information, control your notifications and even manage your issues and pull requests. Built with React Native, GitPoint is one of the most feature-rich unofficial GitHub clients that is 100% free.
 
 
-##problem
+## problem
 
 <p align="center">
   <img src = "http://i.imgur.com/HowF6aM.png" width=350>
@@ -47,8 +47,8 @@ Amazon, etc. The gender ratio is nowhere near 50%.
 A lack of representation for women in tech can hinder a woman’s ability to succeed in the industry. It can put limits on their opportunities for mentorship and sponsorship and can lend to fostering “unconscious gender bias in company culture,” leaving many women “without a clear path forward,” according to a report from TrustRadius. 
 </p>
 
-##solution
-<img src="https://drive.google.com/file/d/1Npgxx75TkaStgR8ejkvV2thQswb7UybL/view?usp=sharing" width=400>
+## solution
+<img src="https://lh3.googleusercontent.com/fife/ABSRlIqZcvsCPF25Oeov2vDJeb2qyZB0UJAXk-arDoX_UDOjC8VgoexRptuUGBN1cG5x8X29XwrboMp9G2O6e8fKUZNyXJ5V5Ufuw4i3ZAJ3LrxZe2jLSKGqagMnaQLdO7JyZsJahJ2jw6LK0BkaKvX5Ny2Ci84JJ_6lw22BYiJu6nAXj7nTfgzNEhI8nECh6WSDgw3BLbeHqq75qZ8P-j42FPSsijGf3_CLgpIsuTXQUKmTNEH34m-7rEyWKhXYyz-hJWEtEJ4H-4YmwDintBUpBQHHgH_1nZhzIV_fls-V3MrFTYwJ-dfrzWJtheZqGzdGv-dk0JUuoSxcDbHG3Dib2vPg45qnausyfrGJg4-KADt61JL-z5ozosQ-v-kjP1hPa266pHr_O5265DV4kuvGKIH5wxtz6kzdgak0FMtufO6cvnaFr8b_Qjze8mQFvqEaeHB1Dr61svFekxyhBBSR74yH4wO6r-H_ElTdW1RCOVPJ-t20uKqV5IlN5Fg_mFe2rQhv1p_w_POtXQLp9VV5XPZ4hyYjbJ7lQTqmSWj1eKb-OmFEXyJiep0KFH_PkCn-8zkZVsf_3LaX2FjpPWQgtC_I8rjMeQID9UQSxqxktDpzshbkDuz1Etcb58nvOxPmAhi0z4psdKRXn-ZbRmSi_M3gXu7TsDj4jNQ-FGBVmjh3BbqheONPA_lY_C1oePCwGfkcIehJqO2eRQiciARLSFB2EwsI7Bq2dw=w2560-h1442-ft" width=400>
 
 
 
